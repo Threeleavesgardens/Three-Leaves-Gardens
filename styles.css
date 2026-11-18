@@ -16,8 +16,8 @@
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { font-family: var(--font-sans); color: var(--charcoal); background: var(--cream); line-height: 1.7; font-size: 16px; }
-h1, h2, h3, h4 { font-family: var(--font-serif); color: var(--green-900); line-height: 1.2; font-weight: 400; }
+body { font-family: var(--font-sans); color: var(--charcoal); background: var(--cream); line-height: 1.7; font-size: 13px; }
+h1, h2, h3, h4 { font-family: var(--font-serif); color: var(--green-900); line-height: 1.2; font-weight: 300; }
 h1 { font-size: 3.5rem; }
 h2 { font-size: 2.2rem; }
 p { margin-bottom: 1rem; }
@@ -69,7 +69,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* HERO SPLIT - Matching the Screenshot */
 .hero-split {
-  padding: 6rem 0;
+  padding: 4rem 0;
   background: var(--cream);
 }
 .hero-split-container {
